@@ -11,7 +11,7 @@ On the standard variant and fischer variant, open the console to see the moves i
 This version also adds partial support for playing against the computer.
 
 ## Usage Instructions
-To play, you may either click [this link](https://ashwinabraham2021.github.io/Nubians-Chess-GameDev-Experimental/index.html) or you may open index.html in any browser.
+To play, you may either click [this link](https://ashwinabraham2021.github.io/Nubians-Chess-GameDev/index.html) or you may open index.html in any browser.
 
 ## A still from a game of Chess
 ![image description](readme1.png)
