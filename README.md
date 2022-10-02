@@ -8,8 +8,10 @@ We have implemented three variations of chess - the standard variant, Fischer Ra
 We have implemented all the FIDE Rules of Chess, including Castling and En Passant.
 On the standard variant and fischer variant, open the console to see the moves in algebraic chess notation!
 
+This version also adds partial support for playing against the computer.
+
 ## Usage Instructions
-To play, you may either click [this link](https://k-rt-k.github.io/GameDev/index.html) or you may open index.html in any browser.
+To play, you may either click [this link](https://ashwinabraham2021.github.io/Nubians-Chess-GameDev-Experimental/index.html) or you may open index.html in any browser.
 
 ## A still from a game of Chess
 ![image description](readme1.png)
