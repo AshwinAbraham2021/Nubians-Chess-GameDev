@@ -769,7 +769,7 @@ var canvas = new fabric.Canvas('c', {
 	  if(white_move==1){
 		  do{
 			  moved_from = [Math.floor(8*Math.random()), Math.floor(8*Math.random())];
-			  console.log(moved_from);
+			  //console.log(moved_from);
 		  }while(!can_move(chessboard, moved_from[0], moved_from[1], "d"));
 		  to_be_moved = options.target;
 		  selected = true; 
